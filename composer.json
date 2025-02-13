@@ -1,0 +1,17 @@
+{
+    "name": "vendor/helloword",
+    "description": "Não tem",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "igormendes",
+            "email": "a.igor.mendes@gmail.com"
+        }
+    ],
+    "require": {}
+}
