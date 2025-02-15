@@ -13,5 +13,7 @@
             "email": "a.igor.mendes@gmail.com"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "phpunit/phpunit": "^12.0"
+    }
 }
